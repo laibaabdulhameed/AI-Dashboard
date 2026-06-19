@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+:root{
+    --background-color:black;
+    --text-color:#FFFFFF;
+    --border-color:1px solid #3A3A3C;
+    --text-size:16px;
+     --fonts:'Inter', sans-serif;
+    }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-size: var(--text-size);
+    font-family: var(--fonts);
+}
