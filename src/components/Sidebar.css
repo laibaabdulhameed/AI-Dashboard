@@ -4,6 +4,9 @@
    height: 100vh;
    padding-left: 10px;
    padding-top: 30px;
+   background-color: rgb(21, 27, 35, 0.5);
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
 }
 ul{
     list-style: none;
